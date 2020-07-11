@@ -1,5 +1,5 @@
 module.exports = {
   MONGODB:
-    "mongodb+srv://sourabh:B9UI97wt04hmpyfO@cluster0.ryout.mongodb.net/book_keeper?retryWrites=true&w=majority",
-  SECRET_KEY: "some lame secret key",
+    "mongodb+srv://sourabh:<password>@cluster0.ryout.mongodb.net/<db-name>?retryWrites=true&w=majority",
+  SECRET_KEY: "---SECRET_KEY---",
 };
